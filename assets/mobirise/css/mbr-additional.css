@@ -28,11 +28,11 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 9.6rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -42,11 +42,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -67,9 +67,9 @@ body {
     line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.8rem;
+    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1468,22 +1468,17 @@ body {
   color: #cc2952;
   text-align: center;
 }
-.cid-qE6gROTaep {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
 .cid-qE6gmfuZGX {
   padding-top: 60px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background: url("../../../assets/images/pope-benedict-xvi-attends-the-2012-world-meeting-of-families-145575243-2000x1333.jpg");
 }
 .cid-qE6gmfuZGX .mbr-section-subtitle {
-  color: #767676;
+  color: #cccccc;
   font-weight: 300;
 }
 .cid-qE6gmfuZGX .number-wrap {
-  color: #565656;
+  color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1502,7 +1497,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #28262b;
+  color: #cccccc;
 }
 .cid-qE6gmfuZGX .period {
   display: block;
@@ -1524,7 +1519,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #28262b;
+  color: #cccccc;
 }
 .cid-qE6gmfuZGX .countdown-cont {
   max-width: 700px;
@@ -1560,17 +1555,6 @@ body {
     font-size: 0.8rem;
   }
 }
-.cid-qE6hrWu9l4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #149dcc;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
-}
-.cid-qE6hrWu9l4 .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-qE6hrWu9l4 .video-block {
-    width: 100% !important;
-  }
+.cid-qE6gmfuZGX H2 {
+  color: #cccccc;
 }
